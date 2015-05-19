@@ -1,0 +1,5 @@
+name= User Login
+description = Display when user logins.
+package = Abeer & Erica Package
+core = 7.x
+files[] = user_login.module
